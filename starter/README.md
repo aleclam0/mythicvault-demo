@@ -14,11 +14,10 @@ Seeded card IDs:
 | Card | Front | Back |
 | --- | --- | --- |
 | Michael Jordan 1986 Fleer | `card_seed_jordan86/front.jpg` | `card_seed_jordan86/back.jpg` |
-| Luka Doncic 2018 Prizm | `card_seed_luka18/front.jpg` | `card_seed_luka18/back.jpg` |
-| Mike Trout 2011 Topps Update | `card_seed_trout11/front.jpg` | `card_seed_trout11/back.jpg` |
-| Patrick Mahomes 2017 Prizm | `card_seed_mahomes17/front.jpg` | `card_seed_mahomes17/back.jpg` |
 | LeBron James 2003 Topps Chrome | `card_seed_lebron03/front.jpg` | `card_seed_lebron03/back.jpg` |
-| Ronald Acuna Jr. 2018 Topps Chrome | `card_seed_acuna18/front.jpg` | `card_seed_acuna18/back.jpg` |
+| Tom Brady 2012 Prizm | `card_seed_brady12/front.jpg` | `card_seed_brady12/back.jpg` |
+| Shohei Ohtani 2018 Bowman Chrome | `card_seed_shohei18/front.jpg` | `card_seed_shohei18/back.jpg` |
+| Charizard Holo 2016 Pokemon Japanese Exp 20th Anniv-1st Ed. | `card_seed_charizard16/front.jpg` | `card_seed_charizard16/back.jpg` |
 
 Notes:
 - Use `.jpg` (the seed paths reference `.jpg`). Portrait ~3:4 works best.
