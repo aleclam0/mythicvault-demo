@@ -1,4 +1,4 @@
 :HL["/mythicvault-demo/_next/static/media/27834908180db20f-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/mythicvault-demo/_next/static/media/78fec81b34c4a365.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/mythicvault-demo/_next/static/css/d28861f7ce641186.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"showcase","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"9Jeu-DxKJWSUY0VeC1FjD"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"showcase","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"tQoIIJQOpAM0GT2NLalFT"}
